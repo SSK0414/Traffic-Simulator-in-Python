@@ -16,3 +16,7 @@ This project is a simple traffic simulation program implemented in Python using 
 1. Clone the repository:
    ```sh
    git clone https://github.com/SSK0414/Traffic-Simulator-in-Python
+
+2. Install Pygame library:
+```sh
+   pip install pygame
