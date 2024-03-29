@@ -20,3 +20,10 @@ This project is a simple traffic simulation program implemented in Python using 
 2. Install Pygame library:
 ```sh
    pip install pygame
+```
+
+#### Usage
+1. Navigate:
+```sh
+   cd Traffic-Simulator-in-Python
+```
