@@ -21,6 +21,9 @@ This project is a simple traffic simulation program implemented in Python using 
 ```sh
    pip install pygame
 ```
+3. Unzip Images:
+
+4. Make sure the folders are in the same parent directory
 
 #### Usage
 1. Navigate:
