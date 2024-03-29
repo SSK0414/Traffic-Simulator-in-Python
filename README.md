@@ -27,3 +27,7 @@ This project is a simple traffic simulation program implemented in Python using 
 ```sh
    cd Traffic-Simulator-in-Python
 ```
+2. Run the Simulation:
+```sh
+   python simulation.py
+```
